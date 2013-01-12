@@ -1,4 +1,4 @@
-# _tinyTimer_
+# tinyTimer
 
 A very simple timer website with easily adjustable time. HTML/JS with a pinch of CSS and PHP.
 
